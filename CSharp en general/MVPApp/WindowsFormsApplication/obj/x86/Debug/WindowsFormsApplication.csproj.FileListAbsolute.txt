@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\bin\Debug\Presentador.dll
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\bin\Debug\Presentador.pdb
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\bin\Debug\Modelo.dll
+C:\Users\Administrator\Desktop\MVPApp\WindowsFormsApplication\bin\Debug\Modelo.pdb

@@ -1,0 +1,16 @@
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\obj\Release\CSharp_XML1.Form1.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\obj\Release\CSharp_XML1.Properties.Resources.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\obj\Release\CSharp_XML1.csproj.GenerateResource.Cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\bin\Release\CSharp_XML1.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\bin\Release\CSharp_XML1.pdb
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\obj\Release\CSharp_XML1.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\CSharp_XML1\obj\Release\CSharp_XML1.pdb
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\obj\Release\CSharp_XML1.exe
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\bin\Release\CSharp_XML1.exe
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\bin\Release\CSharp_XML1.pdb
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\obj\Release\CSharp_XML1.Form1.resources
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\obj\Release\CSharp_XML1.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\obj\Release\CSharp_XML1.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\CSharp_XML1\CSharp_XML1\obj\Release\CSharp_XML1.pdb

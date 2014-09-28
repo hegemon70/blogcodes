@@ -1,0 +1,32 @@
+﻿<Window x:Class="ModalWPF.Modal" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        Title="Modal" 
+        Height="300" 
+        Width="300" 
+        WindowStyle="None"        
+        ShowInTaskbar="False" 
+        WindowStartupLocation="CenterOwner"
+        AllowsTransparency="True"
+        Background="Transparent">        
+    <Border BorderBrush="Gray" 
+            BorderThickness="0,0,2,2" 
+            CornerRadius="10" 
+            Background="AliceBlue">    
+    <Border BorderBrush="Transparent" 
+            BorderThickness="5" 
+            CornerRadius="10">    
+      <Border BorderBrush="Black" 
+              BorderThickness="1.5" 
+              CornerRadius="10">
+        <Grid>
+          <Label Content="Hola soy la ventana modal :D "></Label>
+          <Button Click="VolverButtonClick" 
+                  Content="Volver" 
+                  Height="60" 
+                  VerticalAlignment="Bottom" 
+                  Margin="5"></Button>
+        </Grid>
+      </Border>
+    </Border>
+  </Border>
+</Window>

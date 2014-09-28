@@ -1,0 +1,9 @@
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\obj\Debug\Blog1.Form1.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\obj\Debug\Blog1.Form2.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\obj\Debug\Blog1.Properties.Resources.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\obj\Debug\Blog1.csproj.GenerateResource.Cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\bin\Debug\Blog1.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\bin\Debug\Blog1.pdb
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\obj\Debug\Blog1.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Blog1\obj\Debug\Blog1.pdb

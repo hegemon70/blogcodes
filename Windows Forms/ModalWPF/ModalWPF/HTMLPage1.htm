@@ -1,0 +1,142 @@
+﻿
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span><span style='color:blue'>private</span> <span style='color:blue'>void</span>
+AceptarButtonClick(<span style='color:blue'>object</span> sender, <span
+style='color:#2B91AF'>RoutedEventArgs</span> e)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span></span><span style='font-size:9.5pt;font-family:Consolas'>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>            </span><span style='color:#2B91AF'>ConfirmacionVotoModal</span>
+modal = <span style='color:blue'>new</span> <span style='color:#2B91AF'>ConfirmacionVotoModal</span>();<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>            </span>modal.Owner = <span
+style='color:blue'>this</span>;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>            </span>AplicarEfecto(<span
+style='color:blue'>this</span>);<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>            </span>modal.ShowDialog();<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>            </span><span style='color:blue'>bool</span>?
+resultado = modal.DialogResult;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>            </span></span><span lang=EN-US
+style='font-size:9.5pt;font-family:Consolas;color:blue;mso-ansi-language:EN-US'>if</span><span
+lang=EN-US style='font-size:9.5pt;font-family:Consolas;mso-ansi-language:EN-US'>
+(resultado != <span style='color:blue'>null</span>)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>           
+</span>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span
+style='mso-spacerun:yes'>                </span><span style='color:blue'>if</span>
+(resultado == <span style='color:blue'>false</span>)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span
+style='mso-spacerun:yes'>                </span>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span
+style='mso-spacerun:yes'>                    </span>QuitarEfecto(<span
+style='color:blue'>this</span>);<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span
+style='mso-spacerun:yes'>                </span>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>           
+</span>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span><span style='color:blue'>private</span> <span style='color:blue'>void</span>
+AplicarEfecto(<span style='color:#2B91AF'>Window</span> win)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>           
+</span><span style='color:blue'>var</span> objBlur = <span style='color:blue'>new</span>
+System.Windows.Media.Effects.<span style='color:#2B91AF'>BlurEffect</span>();<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>           
+</span>objBlur.Radius = 5;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>           
+</span>win.Effect = objBlur;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span><span style='color:blue'>private</span> <span style='color:blue'>void</span>
+QuitarEfecto(<span style='color:#2B91AF'>Window</span> win)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:9.5pt;font-family:
+Consolas;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>       
+</span></span><span style='font-size:9.5pt;font-family:Consolas'>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>            </span>win.Effect = <span
+style='color:blue'>null</span>;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-size:9.5pt;font-family:Consolas'><span
+style='mso-spacerun:yes'>        </span>}<o:p></o:p></span></p>
+

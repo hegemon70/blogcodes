@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\EFDemo2\WCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EFDemo2\WCF\bin\WCF.dll
+C:\Users\Administrator\Desktop\EFDemo2\WCF\bin\WCF.pdb
+C:\Users\Administrator\Desktop\EFDemo2\WCF\bin\AccesoDatos.dll
+C:\Users\Administrator\Desktop\EFDemo2\WCF\bin\Entidades.dll
+C:\Users\Administrator\Desktop\EFDemo2\WCF\bin\AccesoDatos.pdb
+C:\Users\Administrator\Desktop\EFDemo2\WCF\bin\Entidades.pdb
+C:\Users\Administrator\Desktop\EFDemo2\WCF\obj\Debug\WCF.dll
+C:\Users\Administrator\Desktop\EFDemo2\WCF\obj\Debug\WCF.pdb

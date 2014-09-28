@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\bin\Debug\InterfazUsuario.exe
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\bin\Debug\InterfazUsuario.pdb
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\obj\x86\Debug\InterfazUsuario.exe
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\obj\x86\Debug\InterfazUsuario.pdb
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\bin\Debug\InterfazUsuario.exe.config
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\bin\Debug\Entidades.dll
+C:\Users\Administrator\Desktop\EFDemo2\InterfazUsuario\bin\Debug\Entidades.pdb

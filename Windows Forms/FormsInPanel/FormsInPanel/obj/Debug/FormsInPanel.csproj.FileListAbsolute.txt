@@ -1,0 +1,19 @@
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\bin\Debug\FormsInPanel.exe
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\bin\Debug\FormsInPanel.pdb
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\obj\Debug\ResolveAssemblyReference.cache
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.csproj.GenerateResource.Cache
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.exe
+F:\Archivos Programacion\Ejemplos - Tutoriales\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.pdb
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.exe
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.pdb
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\bin\Debug\FormsInPanel.exe
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\bin\Debug\FormsInPanel.pdb
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\ResolveAssemblyReference.cache
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Padre.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Hijo1.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.csproj.GenerateResource.Cache
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Hijo2.resources

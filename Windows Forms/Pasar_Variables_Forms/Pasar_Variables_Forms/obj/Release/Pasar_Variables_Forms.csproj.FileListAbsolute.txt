@@ -1,0 +1,9 @@
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\bin\Release\Pasar_Variables_Forms.exe
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\bin\Release\Pasar_Variables_Forms.pdb
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\obj\Release\Blog1.Form1.resources
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\obj\Release\Blog1.Form2.resources
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\obj\Release\Blog1.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\obj\Release\Pasar_Variables_Forms.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\obj\Release\Pasar_Variables_Forms.exe
+C:\Users\Sistemas\Desktop\Pasar_Variables_Forms\Pasar_Variables_Forms\obj\Release\Pasar_Variables_Forms.pdb

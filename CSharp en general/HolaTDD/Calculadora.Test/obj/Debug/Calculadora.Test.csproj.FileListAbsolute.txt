@@ -1,0 +1,7 @@
+C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\bin\Debug\Calculadora.Test.dll
+C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\bin\Debug\Calculadora.Test.pdb
+C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\bin\Debug\Calculadora.dll
+C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\bin\Debug\Calculadora.pdb
+C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\obj\Debug\Calculadora.Test.dll
+C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\obj\Debug\Calculadora.Test.pdb

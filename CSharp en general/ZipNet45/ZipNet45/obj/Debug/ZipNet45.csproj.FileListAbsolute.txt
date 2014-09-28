@@ -1,0 +1,9 @@
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\bin\Debug\ZipNet45.exe.config
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\obj\Debug\ZipNet45.csprojResolveAssemblyReference.cache
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\obj\Debug\ZipNet45.Form1.resources
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\obj\Debug\ZipNet45.Properties.Resources.resources
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\obj\Debug\ZipNet45.csproj.GenerateResource.Cache
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\bin\Debug\ZipNet45.exe
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\bin\Debug\ZipNet45.pdb
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\obj\Debug\ZipNet45.exe
+D:\Users\nicolocodev\Documents\Desarrollos\ZipNet45\ZipNet45\obj\Debug\ZipNet45.pdb

@@ -1,0 +1,11 @@
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\bin\Debug\CorrectorOrtografico.exe
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\bin\Debug\CorrectorOrtografico.pdb
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\CorrectorOrtografico.Form1.resources
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\CorrectorOrtografico.Properties.Resources.resources
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\CorrectorOrtografico.exe
+C:\Users\Harzog8\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\CorrectorOrtografico.pdb
+C:\Users\nicolocodev\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\CorrectorOrtografico.exe
+C:\Users\nicolocodev\Desktop\CorrectorOrtografico\CorrectorOrtografico\obj\x86\Debug\CorrectorOrtografico.pdb

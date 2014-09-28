@@ -1,0 +1,15 @@
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\bin\Debug\ModalWPF.exe
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\bin\Debug\ModalWPF.pdb
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\Modal.baml
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\Modal.g.cs
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\App.g.cs
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\ModalWPF_MarkupCompile.cache
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\ModalWPF.g.resources
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\ModalWPF.Properties.Resources.resources
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\ModalWPF.exe
+C:\Users\1019083325\Desktop\ModalWPF\ModalWPF\obj\x86\Debug\ModalWPF.pdb

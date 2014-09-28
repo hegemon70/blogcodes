@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\MVPApp\Modelo\bin\Debug\Modelo.dll
+C:\Users\Administrator\Desktop\MVPApp\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Administrator\Desktop\MVPApp\Modelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVPApp\Modelo\obj\Debug\Modelo.dll
+C:\Users\Administrator\Desktop\MVPApp\Modelo\obj\Debug\Modelo.pdb

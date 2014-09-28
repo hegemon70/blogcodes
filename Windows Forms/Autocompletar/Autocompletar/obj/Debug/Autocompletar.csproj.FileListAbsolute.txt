@@ -1,0 +1,18 @@
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\bin\Debug\Autocompletar.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\bin\Debug\Autocompletar.pdb
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Debug\Autocompletar.Form1.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Debug\Autocompletar.Properties.Resources.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Debug\Autocompletar.csproj.GenerateResource.Cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Debug\Autocompletar.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Debug\Autocompletar.pdb
+C:\Users\Sistemas\Desktop\Ensayos\Autocompletar\Autocompletar\obj\Debug\Autocompletar.exe
+C:\Users\Sistemas\Desktop\Ensayos\Autocompletar\Autocompletar\obj\Debug\Autocompletar.pdb
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\obj\Debug\Autocompletar.exe
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\obj\Debug\Autocompletar.pdb
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\bin\Debug\Autocompletar.exe
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\bin\Debug\Autocompletar.pdb
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\obj\Debug\Autocompletar.csprojResolveAssemblyReference.cache
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\obj\Debug\Autocompletar.Form1.resources
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\obj\Debug\Autocompletar.Properties.Resources.resources
+C:\Users\nicolocodev\Desktop\Autocompletar\Autocompletar\obj\Debug\Autocompletar.csproj.GenerateResource.Cache

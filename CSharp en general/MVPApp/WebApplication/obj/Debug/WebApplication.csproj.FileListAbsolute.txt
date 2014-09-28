@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\bin\WebApplication.dll
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\bin\WebApplication.pdb
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\bin\Presentador.dll
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\bin\Modelo.dll
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\bin\Presentador.pdb
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\bin\Modelo.pdb
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Administrator\Desktop\MVPApp\WebApplication\obj\Debug\WebApplication.pdb

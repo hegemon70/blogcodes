@@ -1,0 +1,27 @@
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\bin\Release\ComncDesacoplada.exe
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\bin\Release\ComncDesacoplada.pdb
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.exe
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.pdb
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Release\ResolveAssemblyReference.cache
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Release\WindowsFormsApplication1.Form1.resources
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Release\WindowsFormsApplication1.Form2.resources
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.csproj.GenerateResource.Cache
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.exe
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.pdb
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\bin\Release\ComncDesacoplada.exe
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\bin\Release\ComncDesacoplada.pdb
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.Properties.Resources.resources
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.exe
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.pdb
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\bin\Release\ComncDesacoplada.exe
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\bin\Release\ComncDesacoplada.pdb
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.csprojResolveAssemblyReference.cache
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.Form1.resources
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.Properties.Resources.resources
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.csproj.GenerateResource.Cache
+C:\Users\nicolocodev\Desktop\ComncDesacoplada\ComncDesacoplada\obj\Release\ComncDesacoplada.Form2.resources

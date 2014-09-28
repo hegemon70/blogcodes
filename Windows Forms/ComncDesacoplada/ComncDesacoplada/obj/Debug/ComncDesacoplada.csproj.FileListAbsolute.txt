@@ -1,0 +1,18 @@
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\bin\Debug\ComncDesacoplada.exe
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\bin\Debug\ComncDesacoplada.pdb
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Debug\ComncDesacoplada.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Debug\ComncDesacoplada.exe
+C:\Users\Sistemas\Desktop\Ensayos\ComncDesacoplada\ComncDesacoplada\obj\Debug\ComncDesacoplada.pdb
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Debug\ComncDesacoplada.exe
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Debug\ComncDesacoplada.pdb
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\bin\Debug\ComncDesacoplada.exe
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\bin\Debug\ComncDesacoplada.pdb
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Debug\ResolveAssemblyReference.cache
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Debug\WindowsFormsApplication1.Form2.resources
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Debug\ComncDesacoplada.Properties.Resources.resources
+G:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\ComncDesacoplada\ComncDesacoplada\obj\Debug\ComncDesacoplada.csproj.GenerateResource.Cache

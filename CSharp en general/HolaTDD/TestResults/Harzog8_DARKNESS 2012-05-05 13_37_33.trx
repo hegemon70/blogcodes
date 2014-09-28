@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="30bc30e8-bf20-4cb4-bfdb-b0a66c89a26f" name="Harzog8@DARKNESS 2012-05-05 13:37:33" runUser="Darkness\Harzog8" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="9d406bd9-cd06-4b33-8769-77004f269272">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Harzog8_DARKNESS 2012-05-05 13_37_33">
+      <DeploymentItem filename="C:\Users\Harzog8\Desktop\HolaTDD\Calculadora\bin\Debug\Calculadora.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-05T13:37:33.1976315-05:00" queuing="2012-05-05T13:37:33.2956371-05:00" start="2012-05-05T13:37:33.3226387-05:00" finish="2012-05-05T13:37:33.9456743-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="4" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MultiplicarDosNumeros" storage="c:\users\harzog8\desktop\holatdd\calculadora.test\bin\debug\calculadora.test.dll" id="aae9163f-3352-9d2e-1e7e-4d0e60ef6032">
+      <Execution id="e7065709-d518-4315-bf50-cbfee689e69f" />
+      <TestMethod codeBase="C:/Users/Harzog8/Desktop/HolaTDD/Calculadora.Test/bin/Debug/Calculadora.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculadora.Test.CalculadoraTest, Calculadora.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplicarDosNumeros" />
+    </UnitTest>
+    <UnitTest name="DividirDosNumerosResiduoCero" storage="c:\users\harzog8\desktop\holatdd\calculadora.test\bin\debug\calculadora.test.dll" id="8803e230-7f3e-065e-7248-c7ff78508f10">
+      <Execution id="503f5e19-7f3b-49ec-9752-c5eb6ee7c1d5" />
+      <TestMethod codeBase="C:/Users/Harzog8/Desktop/HolaTDD/Calculadora.Test/bin/Debug/Calculadora.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculadora.Test.CalculadoraTest, Calculadora.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DividirDosNumerosResiduoCero" />
+    </UnitTest>
+    <UnitTest name="SumarDosNumeros" storage="c:\users\harzog8\desktop\holatdd\calculadora.test\bin\debug\calculadora.test.dll" id="5a548ab0-37a5-58f0-b174-fa2c5b4167f9">
+      <Execution id="67ba4929-015f-4ecb-b754-13016806c168" />
+      <TestMethod codeBase="C:/Users/Harzog8/Desktop/HolaTDD/Calculadora.Test/bin/Debug/Calculadora.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculadora.Test.CalculadoraTest, Calculadora.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SumarDosNumeros" />
+    </UnitTest>
+    <UnitTest name="DividirDosNumerosResiduoDiferenteDeCero" storage="c:\users\harzog8\desktop\holatdd\calculadora.test\bin\debug\calculadora.test.dll" id="68af9252-64d7-00c3-9c98-e6fa80df775e">
+      <Execution id="e07c4b06-c15a-4736-b401-ce4825b3d9c3" />
+      <TestMethod codeBase="C:/Users/Harzog8/Desktop/HolaTDD/Calculadora.Test/bin/Debug/Calculadora.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculadora.Test.CalculadoraTest, Calculadora.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DividirDosNumerosResiduoDiferenteDeCero" />
+    </UnitTest>
+    <UnitTest name="RestarDosNumeros" storage="c:\users\harzog8\desktop\holatdd\calculadora.test\bin\debug\calculadora.test.dll" id="4f853b4b-2c5b-3155-43f2-5a40242f226b">
+      <Execution id="3a057a69-2678-4447-a341-3c64525bd0ba" />
+      <TestMethod codeBase="C:/Users/Harzog8/Desktop/HolaTDD/Calculadora.Test/bin/Debug/Calculadora.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculadora.Test.CalculadoraTest, Calculadora.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RestarDosNumeros" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4f853b4b-2c5b-3155-43f2-5a40242f226b" executionId="3a057a69-2678-4447-a341-3c64525bd0ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5a548ab0-37a5-58f0-b174-fa2c5b4167f9" executionId="67ba4929-015f-4ecb-b754-13016806c168" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="68af9252-64d7-00c3-9c98-e6fa80df775e" executionId="e07c4b06-c15a-4736-b401-ce4825b3d9c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8803e230-7f3e-065e-7248-c7ff78508f10" executionId="503f5e19-7f3b-49ec-9752-c5eb6ee7c1d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aae9163f-3352-9d2e-1e7e-4d0e60ef6032" executionId="e7065709-d518-4315-bf50-cbfee689e69f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3a057a69-2678-4447-a341-3c64525bd0ba" testId="4f853b4b-2c5b-3155-43f2-5a40242f226b" testName="RestarDosNumeros" computerName="DARKNESS" duration="00:00:00.0192967" startTime="2012-05-05T13:37:33.4016432-05:00" endTime="2012-05-05T13:37:33.7296620-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a057a69-2678-4447-a341-3c64525bd0ba">
+    </UnitTestResult>
+    <UnitTestResult executionId="67ba4929-015f-4ecb-b754-13016806c168" testId="5a548ab0-37a5-58f0-b174-fa2c5b4167f9" testName="SumarDosNumeros" computerName="DARKNESS" duration="00:00:00.0055272" startTime="2012-05-05T13:37:33.7336622-05:00" endTime="2012-05-05T13:37:33.7526633-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67ba4929-015f-4ecb-b754-13016806c168">
+    </UnitTestResult>
+    <UnitTestResult executionId="e07c4b06-c15a-4736-b401-ce4825b3d9c3" testId="68af9252-64d7-00c3-9c98-e6fa80df775e" testName="DividirDosNumerosResiduoDiferenteDeCero" computerName="DARKNESS" duration="00:00:00.0612042" startTime="2012-05-05T13:37:33.7616638-05:00" endTime="2012-05-05T13:37:33.8416684-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e07c4b06-c15a-4736-b401-ce4825b3d9c3">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;4,5&gt;. Actual:&lt;7&gt;. </Message>
+          <StackTrace>   en Calculadora.Test.CalculadoraTest.DividirDosNumerosResiduoDiferenteDeCero() en C:\Users\Harzog8\Desktop\HolaTDD\Calculadora.Test\CalculadoraTest.cs:línea 47
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="503f5e19-7f3b-49ec-9752-c5eb6ee7c1d5" testId="8803e230-7f3e-065e-7248-c7ff78508f10" testName="DividirDosNumerosResiduoCero" computerName="DARKNESS" duration="00:00:00.0015685" startTime="2012-05-05T13:37:33.8496688-05:00" endTime="2012-05-05T13:37:33.8726701-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="503f5e19-7f3b-49ec-9752-c5eb6ee7c1d5">
+    </UnitTestResult>
+    <UnitTestResult executionId="e7065709-d518-4315-bf50-cbfee689e69f" testId="aae9163f-3352-9d2e-1e7e-4d0e60ef6032" testName="MultiplicarDosNumeros" computerName="DARKNESS" duration="00:00:00.0003611" startTime="2012-05-05T13:37:33.8786705-05:00" endTime="2012-05-05T13:37:33.9206729-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7065709-d518-4315-bf50-cbfee689e69f">
+    </UnitTestResult>
+  </Results>
+</TestRun>

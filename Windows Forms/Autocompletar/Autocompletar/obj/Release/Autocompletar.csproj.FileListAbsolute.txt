@@ -1,0 +1,8 @@
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\bin\Release\Autocompletar.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\bin\Release\Autocompletar.pdb
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Release\Autocompletar.Form1.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Release\Autocompletar.Properties.Resources.resources
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Release\Autocompletar.csproj.GenerateResource.Cache
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Release\Autocompletar.exe
+C:\Users\Sistemas\AppData\Local\Temporary Projects\Autocompletar\obj\Release\Autocompletar.pdb

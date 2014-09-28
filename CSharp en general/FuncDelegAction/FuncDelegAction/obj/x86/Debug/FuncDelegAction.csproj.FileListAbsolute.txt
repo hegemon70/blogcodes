@@ -1,0 +1,10 @@
+C:\Users\1019083325\Desktop\FuncDelegAction\FuncDelegAction\bin\Debug\FuncDelegAction.exe
+C:\Users\1019083325\Desktop\FuncDelegAction\FuncDelegAction\bin\Debug\FuncDelegAction.pdb
+C:\Users\1019083325\Desktop\FuncDelegAction\FuncDelegAction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1019083325\Desktop\FuncDelegAction\FuncDelegAction\obj\x86\Debug\FuncDelegAction.exe
+C:\Users\1019083325\Desktop\FuncDelegAction\FuncDelegAction\obj\x86\Debug\FuncDelegAction.pdb
+H:\FuncDelegAction\FuncDelegAction\obj\x86\Debug\FuncDelegAction.exe
+H:\FuncDelegAction\FuncDelegAction\obj\x86\Debug\FuncDelegAction.pdb
+H:\FuncDelegAction\FuncDelegAction\bin\Debug\FuncDelegAction.exe
+H:\FuncDelegAction\FuncDelegAction\bin\Debug\FuncDelegAction.pdb
+H:\FuncDelegAction\FuncDelegAction\obj\x86\Debug\ResolveAssemblyReference.cache

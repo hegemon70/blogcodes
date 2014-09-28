@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3d3bec7b-9b27-4313-99fe-84de4f661feb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:37575/EFDEmoImplementacion.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EFDEmoImplementacion.xsd" MetadataType="Schema" ID="b7b4eadf-765e-426c-8d12-81890077f03f" SourceId="1" SourceUrl="http://localhost:37575/EFDEmoImplementacion.svc?xsd=xsd2" />
+    <MetadataFile FileName="EFDEmoImplementacion.disco" MetadataType="Disco" ID="e9b5b244-c53f-4936-990f-17db7864ee70" SourceId="1" SourceUrl="http://localhost:37575/EFDEmoImplementacion.svc?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="7afc4a91-dac4-4a55-bc35-bde32cd68d0a" SourceId="1" SourceUrl="http://localhost:37575/EFDEmoImplementacion.svc?wsdl" />
+    <MetadataFile FileName="EFDEmoImplementacion1.xsd" MetadataType="Schema" ID="c3dc0103-5d93-44e4-9d88-6562223ce3a3" SourceId="1" SourceUrl="http://localhost:37575/EFDEmoImplementacion.svc?xsd=xsd0" />
+    <MetadataFile FileName="EFDEmoImplementacion2.xsd" MetadataType="Schema" ID="222488d6-637c-4900-8b92-72feacf1324b" SourceId="1" SourceUrl="http://localhost:37575/EFDEmoImplementacion.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,10 @@
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\ResolveAssemblyReference.cache
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\WindowsFormsApplication1.Padre.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\WindowsFormsApplication1.Hijo1.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\FormsInPanel.csproj.GenerateResource.Cache
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\bin\Release\FormsInPanel.exe
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\bin\Release\FormsInPanel.pdb
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\FormsInPanel.exe
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\FormsInPanel.pdb
+F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Release\WindowsFormsApplication1.Hijo2.resources
