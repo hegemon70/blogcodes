@@ -1,0 +1,26 @@
+﻿@model PolymorphismViews.ViewModels.BaseViewModel
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <h2>Index</h2>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+            @Html.Hidden("ModelType", Model.GetType())
+            <fieldset>
+                <legend>Base ViewModel</legend>
+                <p>
+                    @Html.EditorForModel()
+                    <input type="submit" value="Create" />
+                </p>
+            </fieldset>
+        }
+    </body>
+</html>

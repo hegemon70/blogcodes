@@ -1,0 +1,8 @@
+﻿@model PolymorphismViews.ViewModels.FooViewModel
+
+
+<div>
+    @Html.LabelFor(model => model.Foo)
+    @Html.EditorFor(model => model.Foo)
+    @Html.ValidationMessageFor(model => model.Foo)
+</div>
