@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- HelloKatana", "1- HelloKatana", "{AA33D2E7-6BD8-4182-B293-A47BDD4BB979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloKatana", "HelloKatana\HelloKatana.csproj", "{5742BD8F-F6FC-419D-967B-90B76FA6C33C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- NancyFxIIS", "2- NancyFxIIS", "{4A653568-364D-4FA1-BAD0-C2455844EB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{2E79C397-F859-47F2-B7B7-2FD77CD2598F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3- NowinSimpleWeb", "3- NowinSimpleWeb", "{53EA8BB1-FC0A-40BC-907F-1A700A00B212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNowin", "SimpleNowin\SimpleNowin.csproj", "{FF049F9A-05B3-4F9E-B374-2AD406C90883}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4- FixIISWebApi", "4- FixIISWebApi", "{B854BDCE-A7E7-4B3C-B755-3164575E83D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixIISWebApi", "FixIISWebApi\FixIISWebApi.csproj", "{4B543E26-5618-4BAB-831B-0F1EB073E947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E907F9F6-5462-4823-9351-E4FD046E6A8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5- WindowsAzure", "5- WindowsAzure", "{FA947C3D-2B12-4A4F-B14A-68F8A5ABEAC8}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "WindowsAzure1", "WindowsAzure1\WindowsAzure1.ccproj", "{3FE0809F-BC21-4125-B5BF-235A017B1A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{D8CF9337-82E7-4E14-A58B-2321C7AF3084}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0- Hello", "0- Hello", "{D675E84C-7792-472C-BC32-2D326938DEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{F37243BE-C75C-42B5-BC95-576EFA4EB630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B182F87E-2889-4459-A76D-B0A3080297F9}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5742BD8F-F6FC-419D-967B-90B76FA6C33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5742BD8F-F6FC-419D-967B-90B76FA6C33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5742BD8F-F6FC-419D-967B-90B76FA6C33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5742BD8F-F6FC-419D-967B-90B76FA6C33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E79C397-F859-47F2-B7B7-2FD77CD2598F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E79C397-F859-47F2-B7B7-2FD77CD2598F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E79C397-F859-47F2-B7B7-2FD77CD2598F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E79C397-F859-47F2-B7B7-2FD77CD2598F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF049F9A-05B3-4F9E-B374-2AD406C90883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF049F9A-05B3-4F9E-B374-2AD406C90883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF049F9A-05B3-4F9E-B374-2AD406C90883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF049F9A-05B3-4F9E-B374-2AD406C90883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B543E26-5618-4BAB-831B-0F1EB073E947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B543E26-5618-4BAB-831B-0F1EB073E947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B543E26-5618-4BAB-831B-0F1EB073E947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B543E26-5618-4BAB-831B-0F1EB073E947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E907F9F6-5462-4823-9351-E4FD046E6A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E907F9F6-5462-4823-9351-E4FD046E6A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E907F9F6-5462-4823-9351-E4FD046E6A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E907F9F6-5462-4823-9351-E4FD046E6A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE0809F-BC21-4125-B5BF-235A017B1A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE0809F-BC21-4125-B5BF-235A017B1A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE0809F-BC21-4125-B5BF-235A017B1A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE0809F-BC21-4125-B5BF-235A017B1A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CF9337-82E7-4E14-A58B-2321C7AF3084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CF9337-82E7-4E14-A58B-2321C7AF3084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CF9337-82E7-4E14-A58B-2321C7AF3084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CF9337-82E7-4E14-A58B-2321C7AF3084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37243BE-C75C-42B5-BC95-576EFA4EB630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37243BE-C75C-42B5-BC95-576EFA4EB630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37243BE-C75C-42B5-BC95-576EFA4EB630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37243BE-C75C-42B5-BC95-576EFA4EB630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5742BD8F-F6FC-419D-967B-90B76FA6C33C} = {AA33D2E7-6BD8-4182-B293-A47BDD4BB979}
+		{2E79C397-F859-47F2-B7B7-2FD77CD2598F} = {4A653568-364D-4FA1-BAD0-C2455844EB66}
+		{FF049F9A-05B3-4F9E-B374-2AD406C90883} = {53EA8BB1-FC0A-40BC-907F-1A700A00B212}
+		{4B543E26-5618-4BAB-831B-0F1EB073E947} = {B854BDCE-A7E7-4B3C-B755-3164575E83D8}
+		{E907F9F6-5462-4823-9351-E4FD046E6A8A} = {B854BDCE-A7E7-4B3C-B755-3164575E83D8}
+		{3FE0809F-BC21-4125-B5BF-235A017B1A94} = {FA947C3D-2B12-4A4F-B14A-68F8A5ABEAC8}
+		{D8CF9337-82E7-4E14-A58B-2321C7AF3084} = {FA947C3D-2B12-4A4F-B14A-68F8A5ABEAC8}
+		{F37243BE-C75C-42B5-BC95-576EFA4EB630} = {D675E84C-7792-472C-BC32-2D326938DEE6}
+	EndGlobalSection
+EndGlobal

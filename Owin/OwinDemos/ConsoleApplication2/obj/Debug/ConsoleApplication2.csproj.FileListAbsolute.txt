@@ -1,0 +1,13 @@
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\Microsoft.Owin.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\Owin.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\Microsoft.Owin.xml
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\nicolocodev\Desktop\OwinDemos\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

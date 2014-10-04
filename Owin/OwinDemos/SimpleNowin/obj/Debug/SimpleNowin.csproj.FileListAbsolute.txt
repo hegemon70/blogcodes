@@ -1,0 +1,16 @@
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\SimpleNowin.exe.config
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\SimpleNowin.exe
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\SimpleNowin.pdb
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Fix.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Nowin.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Simple.Web.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Fix.xml
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Simple.Web.xml
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\obj\Debug\SimpleNowin.csprojResolveAssemblyReference.cache
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\obj\Debug\SimpleNowin.exe
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\obj\Debug\SimpleNowin.pdb
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Nancy.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Nancy.Owin.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Owin.dll
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Nancy.xml
+C:\Users\nicolocodev\Desktop\OwinDemos\SimpleNowin\bin\Debug\Nancy.Owin.xml

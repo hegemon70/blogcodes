@@ -1,0 +1,10 @@
+﻿<Solution Format="0.0.0.3">
+  <Version>2013-12-04T21:37:16.7110383Z</Version>
+  <Project Path="D:\Users\nicolocodev\Developments\Web Dev\OwinDemos\FixIISWebApi\FixIISWebApi.csproj" />
+  <Project Path="D:\Users\nicolocodev\Developments\Web Dev\OwinDemos\SimpleNowin\SimpleNowin.csproj" />
+  <Project Path="D:\Users\nicolocodev\Developments\Web Dev\OwinDemos\ConsoleApplication2\ConsoleApplication2.csproj" />
+  <Project Path="D:\Users\nicolocodev\Developments\Web Dev\OwinDemos\ConsoleApplication1\ConsoleApplication1.csproj" />
+  <Project Path="D:\Users\nicolocodev\Developments\Web Dev\OwinDemos\WebApplication1\WebApplication1.csproj" />
+  <Project Path="D:\Users\nicolocodev\Developments\Web Dev\OwinDemos\HelloKatana\HelloKatana.csproj" />
+  <Project Path="D:\Users\nicolocodev\Developments\Web Dev\OwinDemos\WorkerRole1\WorkerRole1.csproj" />
+</Solution>
