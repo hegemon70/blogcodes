@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="nnginxteste" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <WorkerRole name="WorkerRole1">
+    <Imports>
+      <Import moduleName="RemoteForwarder" />
+      <Import moduleName="RemoteAccess" />
+    </Imports>
+    <Startup>
+      <Task commandLine="setup\setup_worker.cmd &gt; log.txt" executionContext="elevated">
+        <Environment>
+          <Variable name="EMULATED">
+            <RoleInstanceValue xpath="/RoleEnvironment/Deployment/@emulated" />
+          </Variable>
+          <Variable name="NODEFILE" value="node.msi" />
+          <Variable name="NODEURL" value="http://nodejs.org/dist/v0.10.32/node-v0.10.32-x86.msi" />
+          <Variable name="RUBYFILE" value="ruby.exe" />
+          <Variable name="RUBYURL" value="http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p481.exe" />
+          <Variable name="NGINXFILE" value="nginx.zip" />
+          <Variable name="NGINXURL" value="http://nginx.org/download/nginx-1.6.0.zip" />
+        </Environment>
+      </Task>
+      <Task commandLine="setup\node.cmd .\Node\startup.js" executionContext="elevated" taskType="background" />
+      <Task commandLine="setup\ruby.cmd .\Ruby\main.rb" executionContext="elevated" taskType="background" />
+      <Task commandLine="setup\nginx.cmd" executionContext="elevated" taskType="background" />
+    </Startup>
+    <Endpoints>
+      <InputEndpoint name="HttpIn" protocol="tcp" port="80" localPort="80" />
+    </Endpoints>
+    <Runtime>
+      <Environment>
+        <Variable name="PORT">
+          <RoleInstanceValue xpath="/RoleEnvironment/CurrentInstance/Endpoints/Endpoint[@name='HttpIn']/@port" />
+        </Variable>
+        <Variable name="EMULATED">
+          <RoleInstanceValue xpath="/RoleEnvironment/Deployment/@emulated" />
+        </Variable>
+      </Environment>
+      <EntryPoint>
+        <ProgramEntryPoint commandLine="setup\node.cmd ..\Node\server.js" setReadyOnProcessStart="true" />
+      </EntryPoint>
+    </Runtime>
+  </WorkerRole>
+</ServiceDefinition>

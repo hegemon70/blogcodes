@@ -1,0 +1,1 @@
+D:\Ruby200\bin\ruby.exe main.rb %1
