@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ServiceDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="nnginxteste" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
-  <WorkerRole name="WorkerRole1">
-    <Imports>
-      <Import moduleName="RemoteForwarder" />
-      <Import moduleName="RemoteAccess" />
-    </Imports>
+  <WorkerRole name="WorkerRole1">    
     <Startup>
       <Task commandLine="setup\setup_worker.cmd &gt; log.txt" executionContext="elevated">
         <Environment>
