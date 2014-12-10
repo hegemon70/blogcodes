@@ -17,3 +17,13 @@ F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\Forms
 F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.csproj.GenerateResource.Cache
 F:\Archivos Programacion\Ejemplos - Tutoriales\MyBlog\C Sharp\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Hijo2.resources
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.exe
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.pdb
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\bin\Debug\FormsInPanel.exe
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\bin\Debug\FormsInPanel.pdb
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.csprojResolveAssemblyReference.cache
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Hijo2.resources
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Padre.resources
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Hijo1.resources
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dev\blogcodes\Windows Forms\FormsInPanel\FormsInPanel\obj\Debug\FormsInPanel.csproj.GenerateResource.Cache
