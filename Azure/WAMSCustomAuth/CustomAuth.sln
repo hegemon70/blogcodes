@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAuth", "src\CustomAuth\CustomAuth.csproj", "{302EB58D-A5A4-4DBC-A726-E01C647E301A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{60FED389-C5E3-4E8D-B931-6C9091664B79}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "client", "client", "{2E7988A7-440B-48FB-A0D0-C8FEDD64CC91}"
+	ProjectSection(SolutionItems) = preProject
+		src\client\index.html = src\client\index.html
+		src\client\page.js = src\client\page.js
+		src\client\styles.css = src\client\styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".doc", ".doc", "{7A9BFB84-F4C4-4DBD-B0CF-23018E1F2D86}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302EB58D-A5A4-4DBC-A726-E01C647E301A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302EB58D-A5A4-4DBC-A726-E01C647E301A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302EB58D-A5A4-4DBC-A726-E01C647E301A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302EB58D-A5A4-4DBC-A726-E01C647E301A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
