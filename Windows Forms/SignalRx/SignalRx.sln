@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{B98D1F06-136A-491E-99D2-2FAE542ADB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F5708628-9A91-4A27-8F02-88103FD4876D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{18DAB3F2-E091-4DA4-A2A1-10353C28DB92}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".doc", ".doc", "{8CEE0683-91BE-4426-B5B8-89426935D41F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98D1F06-136A-491E-99D2-2FAE542ADB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98D1F06-136A-491E-99D2-2FAE542ADB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98D1F06-136A-491E-99D2-2FAE542ADB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98D1F06-136A-491E-99D2-2FAE542ADB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5708628-9A91-4A27-8F02-88103FD4876D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5708628-9A91-4A27-8F02-88103FD4876D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5708628-9A91-4A27-8F02-88103FD4876D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5708628-9A91-4A27-8F02-88103FD4876D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
