@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net451": {
+      "wrappedProject": "../../MisMiddlewares/MisMiddlewares.csproj",
+      "bin": {
+        "assembly": "../../MisMiddlewares/obj/{configuration}/MisMiddlewares.dll",
+        "pdb": "../../MisMiddlewares/obj/{configuration}/MisMiddlewares.pdb"
+      },
+      "dependencies": {
+        "Microsoft.Owin": "3.0.1",
+        "Owin": "1.0"
+      }
+    }
+  }
+}
